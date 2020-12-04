@@ -6,8 +6,8 @@
 - 🌱 I'm currently focused on studies with PHP, Node.js, ReactJS, Vue.js. 
 - 👯 I am always studying new languages, frameworks and design patterns and looking to improve knowledge that I already have
 
-[<img align="left" alt="guilhermeminozzi | LinkedIn" width="22px" src="https://github.com/minozzzi/minozzzi/raw/main/images/linkedin.svg" />][linkedin]
-[<img align="left" alt="guilhermeminozzi | Instagram" width="22px" src="https://github.com/minozzzi/minozzzi/raw/main/images/instagram.svg" />][instagram]
+  [<img align="center" alt="guilhermeminozzi | LinkedIn" width="22px" src="https://github.com/minozzzi/minozzzi/raw/main/images/linkedin.svg" />][linkedin]
+  [<img align="center" alt="guilhermeminozzi | Instagram" width="22px" src="https://github.com/minozzzi/minozzzi/raw/main/images/instagram.svg" />][instagram]
 
 <br />
 
