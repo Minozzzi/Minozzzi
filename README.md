@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Guilherme Minozzi</h1>
+<h3 align="center">I am a developer and passionate about technology, I currently work at Bitz Softwares.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=minozzzi&color=blue" alt="guilhermeminozzi" /> </p>
 
-<!--
-**Minozzzi/Minozzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I am currently about to start the Systems Development Analysis course at UTFPR University Pato Branco - PR!
+- 🌱 I'm currently focused on studies with PHP, Node.js, ReactJS, Vue.js. 
+- 👯 I am always studying new languages, frameworks and design patterns and looking to improve knowledge that I already have
 
-Here are some ideas to get you started:
+[<img align="left" alt="guilhermeminozzi | LinkedIn" width="22px" src="https://github.com/minozzzi/minozzzi/raw/main/images/linkedin.svg" />][linkedin]
+[<img align="left" alt="guilhermeminozzi | Instagram" width="22px" src="https://github.com/minozzzi/minozzzi/raw/main/images/instagram.svg" />][instagram]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+[linkedin]: https://www.linkedin.com/in/guilherme-minozzi/
+[instagram]: https://www.instagram.com/minozzzi/
