@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Guilherme Minozzi</h1>
 <h3 align="center">I am a developer and passionate about technology, I currently work at Bitz Softwares.</h3>
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/minozzzi)](https://github.com/minozzzi)
+ [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/minozzzi)](https://github.com/minozzzi)
 
 
 - :rocket: I’m currently working on [@BitzSoftwares](https://bitzsoftwares.com.br/)
