@@ -1,7 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Guilherme Minozzi</h1>
 <h3 align="center">I am a developer and passionate about technology, I currently work at Bitz Softwares.</h3>
- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/minozzzi)](https://github.com/minozzzi)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=minozzzi&color=blue" alt="guilhermeminozzi" /> </p>
 
 - :rocket: I’m currently working on [@BitzSoftwares](https://bitzsoftwares.com.br/)
 - 🔭 I am currently about to start the Systems Development Analysis course at UTFPR University Pato Branco - PR!
